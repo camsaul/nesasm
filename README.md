@@ -21,7 +21,7 @@ which were found in various places in the aforementioned sites and by lots of re
 
 Here are various resources that I've found useful in my quest to master NES homebrew game development:
 
-*  [NerdyNights NES Programming Tutorials](http://nintendoage.com/auth/forum/messageview.cfm?catid=22&threadid=7155)
+*  [NerdyNights NES Programming Tutorials](http://nerdy-nights.nes.science/)
 *  [nesdev.com](http://nesdev.com/)
 *  [Beagle Bros. 6502 Cheatsheet](https://raw.githubusercontent.com/camsaul/nesasm/master/beagle_bros_6502_reference.png)
 *  [Programming the 65816 (PDF of book available for free)](http://archive.6502.org/datasheets/wdc_65816_programming_manual.pdf)
